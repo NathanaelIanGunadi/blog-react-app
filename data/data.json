@@ -1,0 +1,7 @@
+{
+    "blogs": [
+        {"title": "New Website", "body": "Hi", "author": "Ian", "id": 0},
+        {"title": "Newrew Website", "body": "Hi", "author": "Ian2", "id": 1},
+        {"title": "Newrewr Website", "body": "Hi", "author": "Ian3", "id": 2}
+    ]
+}
